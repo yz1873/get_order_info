@@ -13,6 +13,6 @@ public class OrderDO {
     private Long user_id;
 
     @Column
-    private Float balance;
+    private Float amount;
 
 }
